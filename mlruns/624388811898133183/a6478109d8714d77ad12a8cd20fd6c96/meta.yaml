@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/624388811898133183/a6478109d8714d77ad12a8cd20fd6c96/artifacts
+end_time: 1738268956395
+entry_point_name: ''
+experiment_id: '624388811898133183'
+lifecycle_stage: active
+run_id: a6478109d8714d77ad12a8cd20fd6c96
+run_name: abrasive-calf-394
+run_uuid: a6478109d8714d77ad12a8cd20fd6c96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738268952099
+status: 3
+tags: []
+user_id: David

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/624388811898133183/882300c99fc34806a69a9afacee49772/artifacts
+end_time: 1738268706664
+entry_point_name: ''
+experiment_id: '624388811898133183'
+lifecycle_stage: active
+run_id: 882300c99fc34806a69a9afacee49772
+run_name: calm-shoat-568
+run_uuid: 882300c99fc34806a69a9afacee49772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738268702653
+status: 3
+tags: []
+user_id: David
