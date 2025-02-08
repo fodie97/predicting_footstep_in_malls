@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/0/1953ebc46e374942bbd606c4800a2eae/artifacts
+end_time: 1738694152047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1953ebc46e374942bbd606c4800a2eae
+run_name: learned-wasp-513
+run_uuid: 1953ebc46e374942bbd606c4800a2eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738694144279
+status: 3
+tags: []
+user_id: David

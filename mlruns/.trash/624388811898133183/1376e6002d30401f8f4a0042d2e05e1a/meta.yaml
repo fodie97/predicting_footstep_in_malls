@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/624388811898133183/1376e6002d30401f8f4a0042d2e05e1a/artifacts
+deleted_time: 1738694097238
+end_time: 1738268972664
+entry_point_name: ''
+experiment_id: '624388811898133183'
+lifecycle_stage: deleted
+run_id: 1376e6002d30401f8f4a0042d2e05e1a
+run_name: incongruous-frog-134
+run_uuid: 1376e6002d30401f8f4a0042d2e05e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738268967993
+status: 3
+tags: []
+user_id: David

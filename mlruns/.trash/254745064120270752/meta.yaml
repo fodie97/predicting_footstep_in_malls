@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/254745064120270752
+creation_time: 1738787016779
+experiment_id: '254745064120270752'
+last_update_time: 1738787196711
+lifecycle_stage: deleted
+name: Carmila_MLForecast_XGBoost
+tags: {}

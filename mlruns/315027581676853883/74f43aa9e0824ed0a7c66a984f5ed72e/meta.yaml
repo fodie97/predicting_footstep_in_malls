@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/74f43aa9e0824ed0a7c66a984f5ed72e/artifacts
+end_time: 1738788565861
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: 74f43aa9e0824ed0a7c66a984f5ed72e
+run_name: nixtla ridge regression
+run_uuid: 74f43aa9e0824ed0a7c66a984f5ed72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738788565509
+status: 3
+tags: []
+user_id: David

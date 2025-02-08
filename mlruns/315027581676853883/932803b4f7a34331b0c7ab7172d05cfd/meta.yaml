@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/932803b4f7a34331b0c7ab7172d05cfd/artifacts
+deleted_time: 1738869180752
+end_time: 1738701657282
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 932803b4f7a34331b0c7ab7172d05cfd
+run_name: Simple XGboost
+run_uuid: 932803b4f7a34331b0c7ab7172d05cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738701643569
+status: 3
+tags: []
+user_id: David

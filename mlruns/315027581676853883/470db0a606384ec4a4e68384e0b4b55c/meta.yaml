@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/470db0a606384ec4a4e68384e0b4b55c/artifacts
+end_time: 1738787801601
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: 470db0a606384ec4a4e68384e0b4b55c
+run_name: nixtla catboost
+run_uuid: 470db0a606384ec4a4e68384e0b4b55c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738787801283
+status: 3
+tags: []
+user_id: David

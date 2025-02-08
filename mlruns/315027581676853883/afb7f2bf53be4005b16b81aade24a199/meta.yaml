@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/afb7f2bf53be4005b16b81aade24a199/artifacts
+end_time: 1738788940584
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: afb7f2bf53be4005b16b81aade24a199
+run_name: nixtla gradient boosting
+run_uuid: afb7f2bf53be4005b16b81aade24a199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738788940390
+status: 3
+tags: []
+user_id: David

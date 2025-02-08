@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/197653659629153652/b6cd8739adcb4edd87d30fd341e04a86/artifacts
+deleted_time: 1738786289799
+end_time: 1738779652717
+entry_point_name: ''
+experiment_id: '197653659629153652'
+lifecycle_stage: deleted
+run_id: b6cd8739adcb4edd87d30fd341e04a86
+run_name: NHITS v1
+run_uuid: b6cd8739adcb4edd87d30fd341e04a86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738779650097
+status: 4
+tags: []
+user_id: David

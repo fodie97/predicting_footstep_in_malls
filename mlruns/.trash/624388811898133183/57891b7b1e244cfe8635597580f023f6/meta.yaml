@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/624388811898133183/57891b7b1e244cfe8635597580f023f6/artifacts
+deleted_time: 1738694097238
+end_time: 1738268685945
+entry_point_name: ''
+experiment_id: '624388811898133183'
+lifecycle_stage: deleted
+run_id: 57891b7b1e244cfe8635597580f023f6
+run_name: beautiful-steed-626
+run_uuid: 57891b7b1e244cfe8635597580f023f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738268674958
+status: 3
+tags: []
+user_id: David

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/8c1b6ca6141d480dafca19547de631de/artifacts
+end_time: 1738788378203
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: 8c1b6ca6141d480dafca19547de631de
+run_name: nixtla extra trees
+run_uuid: 8c1b6ca6141d480dafca19547de631de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738788378074
+status: 3
+tags: []
+user_id: David

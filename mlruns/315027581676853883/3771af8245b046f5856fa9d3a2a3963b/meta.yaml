@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/3771af8245b046f5856fa9d3a2a3963b/artifacts
+deleted_time: 1738782406056
+end_time: 1738778893451
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 3771af8245b046f5856fa9d3a2a3963b
+run_name: Lightgbm v2
+run_uuid: 3771af8245b046f5856fa9d3a2a3963b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738778883263
+status: 3
+tags: []
+user_id: David

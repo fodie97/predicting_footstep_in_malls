@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/0173d37cfdb045deb5d32e3c87367bfb/artifacts
+deleted_time: 1738927328058
+end_time: 1738920097912
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 0173d37cfdb045deb5d32e3c87367bfb
+run_name: nixtla random forest with exog (Hourly)
+run_uuid: 0173d37cfdb045deb5d32e3c87367bfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738920097617
+status: 3
+tags: []
+user_id: David

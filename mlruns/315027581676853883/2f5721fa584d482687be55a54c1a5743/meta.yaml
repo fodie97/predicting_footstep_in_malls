@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/2f5721fa584d482687be55a54c1a5743/artifacts
+end_time: 1738922255141
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: 2f5721fa584d482687be55a54c1a5743
+run_name: Pipeline exog with no leakage
+run_uuid: 2f5721fa584d482687be55a54c1a5743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738922255038
+status: 3
+tags: []
+user_id: David

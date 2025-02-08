@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/a07a2c9ec76540fb94e56e523b48c230/artifacts
+end_time: 1739044037187
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: active
+run_id: a07a2c9ec76540fb94e56e523b48c230
+run_name: Pipeline exog + Trading Indicators + Manual Lag
+run_uuid: a07a2c9ec76540fb94e56e523b48c230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739044037041
+status: 3
+tags: []
+user_id: David

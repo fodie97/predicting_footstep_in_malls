@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/40235d769a7148cd96b8ea3fac926dad/artifacts
+deleted_time: 1738774928772
+end_time: 1738710372014
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 40235d769a7148cd96b8ea3fac926dad
+run_name: LightGBM Amélioré
+run_uuid: 40235d769a7148cd96b8ea3fac926dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738710364491
+status: 3
+tags: []
+user_id: David

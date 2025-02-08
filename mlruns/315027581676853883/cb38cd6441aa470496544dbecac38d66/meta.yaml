@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/cb38cd6441aa470496544dbecac38d66/artifacts
+deleted_time: 1738869180750
+end_time: 1738702743561
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: cb38cd6441aa470496544dbecac38d66
+run_name: Simple CatBoost
+run_uuid: cb38cd6441aa470496544dbecac38d66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738702699954
+status: 3
+tags: []
+user_id: David

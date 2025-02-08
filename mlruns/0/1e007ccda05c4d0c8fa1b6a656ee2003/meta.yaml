@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/0/1e007ccda05c4d0c8fa1b6a656ee2003/artifacts
+deleted_time: 1738694105133
+end_time: 1738694022903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1e007ccda05c4d0c8fa1b6a656ee2003
+run_name: receptive-midge-984
+run_uuid: 1e007ccda05c4d0c8fa1b6a656ee2003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738694010541
+status: 3
+tags: []
+user_id: David

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/2efe085fb99445e89bfa2ce782765643/artifacts
+deleted_time: 1738787753202
+end_time: 1738787246865
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 2efe085fb99445e89bfa2ce782765643
+run_name: gregarious-eel-660
+run_uuid: 2efe085fb99445e89bfa2ce782765643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738787246674
+status: 3
+tags: []
+user_id: David

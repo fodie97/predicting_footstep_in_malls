@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/315027581676853883/794702693b20424da768459e4bbef2de/artifacts
+deleted_time: 1738915638757
+end_time: 1738878359655
+entry_point_name: ''
+experiment_id: '315027581676853883'
+lifecycle_stage: deleted
+run_id: 794702693b20424da768459e4bbef2de
+run_name: random forest avec réconciliation hiérarchique
+run_uuid: 794702693b20424da768459e4bbef2de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738878359424
+status: 3
+tags: []
+user_id: David

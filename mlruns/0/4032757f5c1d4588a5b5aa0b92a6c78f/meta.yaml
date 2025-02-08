@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/0/4032757f5c1d4588a5b5aa0b92a6c78f/artifacts
+deleted_time: 1738694105133
+end_time: 1738693130675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4032757f5c1d4588a5b5aa0b92a6c78f
+run_name: brawny-skink-409
+run_uuid: 4032757f5c1d4588a5b5aa0b92a6c78f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738693130580
+status: 3
+tags: []
+user_id: David

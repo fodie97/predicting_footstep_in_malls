@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/0/27da17e3d63845c1b003b303f9a46ce8/artifacts
+end_time: 1738694251033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27da17e3d63845c1b003b303f9a46ce8
+run_name: welcoming-crane-822
+run_uuid: 27da17e3d63845c1b003b303f9a46ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738694242707
+status: 3
+tags: []
+user_id: David

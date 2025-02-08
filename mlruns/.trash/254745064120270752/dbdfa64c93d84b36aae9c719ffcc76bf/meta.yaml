@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/Carmila%20alberton/Data%20for%20the%20CARMILA%20challenge/mlruns/254745064120270752/dbdfa64c93d84b36aae9c719ffcc76bf/artifacts
+deleted_time: 1738787196711
+end_time: 1738787016914
+entry_point_name: ''
+experiment_id: '254745064120270752'
+lifecycle_stage: deleted
+run_id: dbdfa64c93d84b36aae9c719ffcc76bf
+run_name: sassy-goose-144
+run_uuid: dbdfa64c93d84b36aae9c719ffcc76bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738787016812
+status: 4
+tags: []
+user_id: David
